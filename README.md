@@ -1,4 +1,4 @@
 TreeAppsDoc
 ===========
 
-Containing TreeApps related documents
+Containing TreeApps related documents.
